@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "l3P2j/WZMrZn5FIADk5VPwg/U3fwxmbugxTsxG+n/SzG4JfnPAQF1aLhjlmcWedSUYcMqv7qvpFGKJv+IQqN8g==",
+  "dgSpecHash": "EGyTpCHbl/iYZ5akND/RTmUKkILi8JmQrnxZkm9LaDE5ppVndRDc+EVxcV3nFnD2dJjYep9XEqqYqa0PaFp0Dg==",
   "success": true,
-  "projectFilePath": "D:\\user\\Coding\\Codes\\Youtube\\youtubeCourseOnDotnetFiveRestApi\\dotnet5RestApi\\Catalog\\Catalog.csproj",
+  "projectFilePath": "D:\\user\\Coding\\Codes\\Youtube\\youtubeCourseOnDotnetFiveRestApi\\local_Repo_dotnet5RestApi\\Catalog\\Catalog.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

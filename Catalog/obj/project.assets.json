@@ -199,11 +199,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\user\\Coding\\Codes\\Youtube\\youtubeCourseOnDotnetFiveRestApi\\dotnet5RestApi\\Catalog\\Catalog.csproj",
+      "projectUniqueName": "D:\\user\\Coding\\Codes\\Youtube\\youtubeCourseOnDotnetFiveRestApi\\local_Repo_dotnet5RestApi\\Catalog\\Catalog.csproj",
       "projectName": "Catalog",
-      "projectPath": "D:\\user\\Coding\\Codes\\Youtube\\youtubeCourseOnDotnetFiveRestApi\\dotnet5RestApi\\Catalog\\Catalog.csproj",
+      "projectPath": "D:\\user\\Coding\\Codes\\Youtube\\youtubeCourseOnDotnetFiveRestApi\\local_Repo_dotnet5RestApi\\Catalog\\Catalog.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "D:\\user\\Coding\\Codes\\Youtube\\youtubeCourseOnDotnetFiveRestApi\\dotnet5RestApi\\Catalog\\obj\\",
+      "outputPath": "D:\\user\\Coding\\Codes\\Youtube\\youtubeCourseOnDotnetFiveRestApi\\local_Repo_dotnet5RestApi\\Catalog\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
